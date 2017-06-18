@@ -1,4 +1,4 @@
-Language Specification for our calculator
+Language Specifications for our calculator
 
 The memory for our calculator consists of variables of the type double labeled by doubles, implemented with an unordered_map.
 
